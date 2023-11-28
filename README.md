@@ -3,7 +3,7 @@
 - 🔍 I'm currently **LookingForJob**
 - 🌱 Exploring UI technologies.
 - 📖 In my spare time I solve problems on CodeWars.
-- ⚡ Fun fact **Fear perception, risk estimation, actions**
+- ⚡ **Fear perception, risk estimation, actions**
 
 <p align="left">
 </p>
